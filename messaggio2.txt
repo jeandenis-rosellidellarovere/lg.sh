@@ -1,0 +1,4 @@
+Installazione Completata! Ora hai accesso a tutta
+la letteratura classica. I files si trovano in 
+/home/$USER/lettereclassiche . Usa il comando lg -h per scoprire come 
+navigare comodamente tra i numerosi testi

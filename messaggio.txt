@@ -1,0 +1,7 @@
+Benvenuto/a! Questo script scaricherà tutti i testi della letteratura
+classica sul tuo computer, in modo che siano consultabili 
+offline tramite lg (che verrà anche esso installato sul tuo 
+computer). Al termine del download troverai tutti i testi 
+nella cartella lettereclassiche della tua home. Per annullare 
+premi in qualsiasi momento CTRL+C.
+
